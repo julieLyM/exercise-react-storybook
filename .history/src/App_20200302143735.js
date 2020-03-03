@@ -1,5 +1,5 @@
 import React from 'react';
-import Story from './components/Story';
+
 import './App.css';
 
 function App() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import Story from './components/Story';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
